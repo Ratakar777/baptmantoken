@@ -1,0 +1,692 @@
+Uri: https://baptmantoken.com/
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\index.htm
+Content Type: text/html
+
+Uri: https://baptmantoken.com/comments/feed/
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://baptmantoken.com/feed/
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://baptmantoken.com/wp-content/plugins/advanced-backgrounds/assets/awb/awb.min.css?ver=1.12.7
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\advanced-backgrounds\assets\awb\awb.min.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/advanced-backgrounds/assets/awb/awb.min.js?ver=1.12.7
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\advanced-backgrounds\assets\awb\awb.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/advanced-backgrounds/assets/vendor/jarallax/dist/jarallax-video.min.js?ver=2.2.1
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\advanced-backgrounds\assets\vendor\jarallax\dist\jarallax-video.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/advanced-backgrounds/assets/vendor/jarallax/dist/jarallax.min.js?ver=2.2.1
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\advanced-backgrounds\assets\vendor\jarallax\dist\jarallax.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/copy-to-clipboard-for-wp/public/css/catcwp-public.css?ver=1.7.0
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\copy-to-clipboard-for-wp\public\css\catcwp-public.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/copy-to-clipboard-for-wp/public/js/catcwp-public.js?ver=1.7.0
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\copy-to-clipboard-for-wp\public\js\catcwp-public.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=2.2.5
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\custom-twitter-feeds\css\ctf-styles.min.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/ditty-news-ticker/build/dittyDisplays.css?ver=3.1.52
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\ditty-news-ticker\build\dittyDisplays.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/ditty-news-ticker/includes/libs/fontawesome-6.4.0/css/all.css?ver=6.4.0
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\ditty-news-ticker\includes\libs\fontawesome-6.4.0\css\all.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/ditty-news-ticker/includes/libs/fontawesome-6.4.0/webfonts/fa-brands-400.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\ditty-news-ticker\includes\libs\fontawesome-6.4.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://baptmantoken.com/wp-content/plugins/ditty-news-ticker/includes/libs/fontawesome-6.4.0/webfonts/fa-brands-400.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\ditty-news-ticker\includes\libs\fontawesome-6.4.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/plugins/ditty-news-ticker/includes/libs/fontawesome-6.4.0/webfonts/fa-regular-400.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\ditty-news-ticker\includes\libs\fontawesome-6.4.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://baptmantoken.com/wp-content/plugins/ditty-news-ticker/includes/libs/fontawesome-6.4.0/webfonts/fa-regular-400.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\ditty-news-ticker\includes\libs\fontawesome-6.4.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/plugins/ditty-news-ticker/includes/libs/fontawesome-6.4.0/webfonts/fa-solid-900.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\ditty-news-ticker\includes\libs\fontawesome-6.4.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://baptmantoken.com/wp-content/plugins/ditty-news-ticker/includes/libs/fontawesome-6.4.0/webfonts/fa-solid-900.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\ditty-news-ticker\includes\libs\fontawesome-6.4.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/plugins/ditty-news-ticker/includes/libs/fontawesome-6.4.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\ditty-news-ticker\includes\libs\fontawesome-6.4.0\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://baptmantoken.com/wp-content/plugins/ditty-news-ticker/includes/libs/fontawesome-6.4.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\ditty-news-ticker\includes\libs\fontawesome-6.4.0\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/css/animate.min.css?ver=5.2.3
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/css/hover-min.css?ver=5.2.3
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\css\hover-min.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/fontawesome/css/all.min.css?ver=5.2.3
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/fontawesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\fontawesome\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/fontawesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\fontawesome\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/js/eb-animation-load.js?ver=a8d9f1b17ed66e8006aa
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\js\eb-animation-load.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/essential-blocks/assets/js/eb-blocks-localize.js?ver=31d6cfe0d16ae931b73c
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\essential-blocks\assets\js\eb-blocks-localize.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js?ver=1.7.9
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\page-scroll-to-id\js\page-scroll-to-id.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/safelayout-cute-preloader/assets/js/safelayout-cute-preloader.min.js?ver=2.1.0
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\safelayout-cute-preloader\assets\js\safelayout-cute-preloader.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-9.5.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/css/woocommerce-blocktheme.css?ver=9.5.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\css\woocommerce-blocktheme.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.5.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.5.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.5.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.5.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.5.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\js\frontend\order-attribution.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.5.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.5.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.5.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.5.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\plugins\woocommerce\assets\js\sourcebuster\sourcebuster.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_italic_400.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_700.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\themes\twentytwentyfour\assets\fonts\inter\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/aptdabk-100x100.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\aptdabk-100x100.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/aptdabk-150x150.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\aptdabk-150x150.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/aptdabk-300x300.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\aptdabk-300x300.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/aptdabk-500x500.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\aptdabk-500x500.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/aptdabk.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\aptdabk.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/BAPTMAN-logo-100x100.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\BAPTMAN-logo-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/BAPTMAN-logo-300x300.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\BAPTMAN-logo-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-1024x296.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-1024x296.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-300x87.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-300x87.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-500x145.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-500x145.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-600x174.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-600x174.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-768x222.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-768x222.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-800x232.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-800x232.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-hero-z-1024x576.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-hero-z-1024x576.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-hero-z-1280x720.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-hero-z-1280x720.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-hero-z-1536x864.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-hero-z-1536x864.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-hero-z-300x169.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-hero-z-300x169.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-hero-z-500x281.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-hero-z-500x281.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-hero-z-600x338.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-hero-z-600x338.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-hero-z-768x432.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-hero-z-768x432.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-hero-z-800x450.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-hero-z-800x450.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-hero-z.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-hero-z.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/baptman-on-aptos.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\baptman-on-aptos.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/bling-site-100x100.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\bling-site-100x100.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/bling-site-150x150.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\bling-site-150x150.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/bling-site-300x300.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\bling-site-300x300.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/bling-site-500x500.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\bling-site-500x500.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/bling-site.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\bling-site.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/comfy-1-100x100.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\comfy-1-100x100.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/comfy-1-150x150.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\comfy-1-150x150.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/comfy-1-300x300.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\comfy-1-300x300.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/comfy-1-500x500.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\comfy-1-500x500.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/comfy-1.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\comfy-1.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/Gawthim-Labz-1024x682.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\Gawthim-Labz-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/Gawthim-Labz-300x200.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\Gawthim-Labz-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/Gawthim-Labz-500x333.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\Gawthim-Labz-500x333.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/Gawthim-Labz-600x400.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\Gawthim-Labz-600x400.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/Gawthim-Labz-768x512.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\Gawthim-Labz-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/Gawthim-Labz-800x533.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\Gawthim-Labz-800x533.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/Gawthim-Labz.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\Gawthim-Labz.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/GJ42vxWWQAAxYLI-100x100.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\GJ42vxWWQAAxYLI-100x100.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/GJ42vxWWQAAxYLI-150x150.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\GJ42vxWWQAAxYLI-150x150.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/GJ42vxWWQAAxYLI-300x300.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\GJ42vxWWQAAxYLI-300x300.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/GJ42vxWWQAAxYLI-500x500.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\GJ42vxWWQAAxYLI-500x500.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/GJ42vxWWQAAxYLI-600x600.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\GJ42vxWWQAAxYLI-600x600.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/GJ42vxWWQAAxYLI.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\GJ42vxWWQAAxYLI.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/new-baptman-logo-100x100.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\new-baptman-logo-100x100.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/new-baptman-logo-150x150.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\new-baptman-logo-150x150.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/new-baptman-logo-300x300.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\new-baptman-logo-300x300.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/new-baptman-logo-500x500.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\new-baptman-logo-500x500.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/new-baptman-logo-600x600.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\new-baptman-logo-600x600.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/new-baptman-logo-768x768.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\new-baptman-logo-768x768.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/new-baptman-logo-800x800.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\new-baptman-logo-800x800.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/new-baptman-logo.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\new-baptman-logo.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_13-37-37-100x100.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_13-37-37-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_13-37-37-150x150.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_13-37-37-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_13-37-37-300x300.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_13-37-37-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_13-37-37-500x500.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_13-37-37-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_13-37-37-600x600.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_13-37-37-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_13-37-37-768x768.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_13-37-37-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_13-37-37-800x800.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_13-37-37-800x800.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_13-37-37.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_13-37-37.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_23-11-32-100x100.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_23-11-32-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_23-11-32-150x150.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_23-11-32-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_23-11-32-300x300.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_23-11-32-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_23-11-32-500x500.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_23-11-32-500x500.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_23-11-32-600x600.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_23-11-32-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_23-11-32-768x768.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_23-11-32-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_23-11-32-800x800.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_23-11-32-800x800.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/04/photo_2024-04-09_23-11-32.jpg
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\04\photo_2024-04-09_23-11-32.jpg
+Content Type: image/jpeg
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-logo-300x114.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-logo-300x114.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-logo-500x190.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-logo-500x190.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-logo-768x292.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-logo-768x292.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-logo.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-logo.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-webback-1-1024x576.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-webback-1-1024x576.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-webback-1-1280x720.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-webback-1-1280x720.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-webback-1-1536x864.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-webback-1-1536x864.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-webback-1-300x169.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-webback-1-300x169.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-webback-1-500x281.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-webback-1-500x281.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-webback-1-768x432.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-webback-1-768x432.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-webback-1-800x450.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-webback-1-800x450.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/aptosneuz-webback-1.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\aptosneuz-webback-1.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/waving-150x150.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\waving-150x150.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/waving-300x300.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\waving-300x300.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/waving-500x500.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\waving-500x500.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/waving-768x768.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\waving-768x768.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/08/waving.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\08\waving.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/10/aptdabk-edited-100x100.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\10\aptdabk-edited-100x100.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/10/aptdabk-edited-150x150.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\10\aptdabk-edited-150x150.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/10/aptdabk-edited-300x300.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\10\aptdabk-edited-300x300.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/2024/10/aptdabk-edited.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\2024\10\aptdabk-edited.png
+Content Type: image/png
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/eb-style/frontend/frontend-1.min.css?ver=1731654635
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\eb-style\frontend\frontend-1.min.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/eb-style/frontend/frontend-17.min.css?ver=1733307250
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\eb-style\frontend\frontend-17.min.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/eb-style/full-site-editor/full-site-editor-17.min.css?ver=660a1b3a01
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\eb-style\full-site-editor\full-site-editor-17.min-1.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-content/uploads/sites/15/eb-style/full-site-editor/full-site-editor-17.min.css?ver=ca6993a586
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-content\uploads\sites\15\eb-style\full-site-editor\full-site-editor-17.min.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-includes/blocks/navigation/style.min.css?ver=6.6.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-includes\blocks\navigation\style.min.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-includes/css/dashicons.min.css?ver=6.6.2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://baptmantoken.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://baptmantoken.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: https://baptmantoken.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://baptmantoken.com/wp-json/
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css?family=Aldrich:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|&ver=5.2.3
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/aldrich/v21/MCoTzAn-1s3IGyJMVacY2g.ttf
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\s\aldrich\v21\MCoTzAn-1s3IGyJMVacY2g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/aldrich/v21/MCoTzAn-1s3IGyJMVacY3w.woff2
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\s\aldrich\v21\MCoTzAn-1s3IGyJMVacY3w.woff2
+Content Type: font/woff2
+
+Uri: https://interactivewebpros.com/baptmantoken/wp-content/uploads/sites/15/2024/04/aptdabk.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\baptmantoken\wp-content\uploads\sites\15\2024\04\aptdabk.png
+Content Type: image/png
+
+Uri: https://interactivewebpros.com/baptmantoken/wp-content/uploads/sites/15/2024/04/baptman-on-aptos-1024x296.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\baptmantoken\wp-content\uploads\sites\15\2024\04\baptman-on-aptos-1024x296.png
+Content Type: image/png
+
+Uri: https://interactivewebpros.com/baptmantoken/wp-content/uploads/sites/15/2024/04/bling-site.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\baptmantoken\wp-content\uploads\sites\15\2024\04\bling-site.png
+Content Type: image/png
+
+Uri: https://interactivewebpros.com/baptmantoken/wp-content/uploads/sites/15/2024/04/comfy-1.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\baptmantoken\wp-content\uploads\sites\15\2024\04\comfy-1.png
+Content Type: image/png
+
+Uri: https://interactivewebpros.com/baptmantoken/wp-content/uploads/sites/15/2024/04/GJ42vxWWQAAxYLI-150x150.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\baptmantoken\wp-content\uploads\sites\15\2024\04\GJ42vxWWQAAxYLI-150x150.png
+Content Type: image/png
+
+Uri: https://interactivewebpros.com/baptmantoken/wp-content/uploads/sites/15/2024/04/GJ42vxWWQAAxYLI.png
+File Name: C:\work\Downloaded Web Sites\18.01\baptmantoken.com\baptmantoken\wp-content\uploads\sites\15\2024\04\GJ42vxWWQAAxYLI.png
+Content Type: image/png
+
